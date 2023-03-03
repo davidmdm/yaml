@@ -25,8 +25,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/davidmdm/yaml"
 	. "gopkg.in/check.v1"
-	"gopkg.in/yaml.v3"
 )
 
 var unmarshalIntTest = 123
